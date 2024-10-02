@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\User\Desktop\Clone\113-1-Homework\HW1\2.26\source\main.c(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-1-Homework\HW1\2.26\source\main.c(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW1-2.26.vcxproj -> C:\Users\User\Desktop\Clone\113-1-Homework\HW1\2.26\HW1-2.26\x64\Debug\HW1-2.26.exe
