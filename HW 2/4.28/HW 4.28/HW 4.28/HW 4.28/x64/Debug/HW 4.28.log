@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\4.28\source\main.c(33,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\4.28\source\main.c(42,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\4.28\source\main.c(44,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\4.28\source\main.c(53,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\4.28\source\main.c(55,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\4.28\source\main.c(70,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\4.28\source\main.c(79,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\4.28\source\main.c(81,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW 4.28.vcxproj -> C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\4.28\HW 4.28\HW 4.28\x64\Debug\HW 4.28.exe

@@ -1,0 +1,7 @@
+﻿  Main.c
+C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\3.17\source\Main.c(17,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\3.17\source\Main.c(23,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\3.17\source\Main.c(25,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\3.17\source\Main.c(27,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\3.17\source\Main.c(29,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW2 3.17.vcxproj -> C:\Users\User\Desktop\Clone\113-2 Homework\HW 2\3.17\HW2 3.17\x64\Debug\HW2 3.17.exe
