@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\User\Desktop\Clone\113-1-Homework\HW3-1\HW3 P18\source\main.c(15,8): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\User\Desktop\Clone\113-1-Homework\HW3-1\HW3 P18\source\main.c(16,9): warning C4566: 由通用字元名稱 '\u00A6' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\User\Desktop\Clone\113-1-Homework\HW3-1\HW3 P18\source\main.c(16,9): warning C4566: 由通用字元名稱 '\u00EA' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\User\Desktop\Clone\113-1-Homework\HW3-1\HW3 P18\source\main.c(16,9): warning C4566: 由通用字元名稱 '\u00AA' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\User\Desktop\Clone\113-1-Homework\HW3-1\HW3 P18\source\main.c(16,9): warning C4566: 由通用字元名稱 '\u00F8' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\User\Desktop\Clone\113-1-Homework\HW3-1\HW3 P18\source\main.c(16,9): warning C4566: 由通用字元名稱 '\u00AB' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\User\Desktop\Clone\113-1-Homework\HW3-1\HW3 P18\source\main.c(16,9): warning C4566: 由通用字元名稱 '\u00AC' 表示的字元，無法在目前的字碼頁中表示 (950)
+C:\Users\User\Desktop\Clone\113-1-Homework\HW3-1\HW3 P18\source\main.c(12,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  p18.vcxproj -> C:\Users\User\Desktop\Clone\113-1-Homework\HW3-1\HW3 P18\p18\p18\x64\Debug\p18.exe

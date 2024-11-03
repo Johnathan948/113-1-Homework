@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\User\Desktop\Clone\113-1-Homework\HW3-1\HW3 P15\source\main.c(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  p15.vcxproj -> C:\Users\User\Desktop\Clone\113-1-Homework\HW3-1\HW3 P15\p15\p15\x64\Debug\p15.exe
