@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\User\Desktop\Clone\113-1-Homework\HW3-2\HW3-5-36\source\main.c(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-1-Homework\HW3-2\HW3-5-36\source\main.c(19,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-1-Homework\HW3-2\HW3-5-36\source\main.c(22,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-1-Homework\HW3-2\HW3-5-36\source\main.c(25,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  5-36.vcxproj -> C:\Users\User\Desktop\Clone\113-1-Homework\HW3-2\HW3-5-36\5-36\5-36\x64\Debug\5-36.exe
