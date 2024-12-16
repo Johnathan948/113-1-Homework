@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\User\Desktop\Clone\113-1-Homework\HW7\P15\source\main.c(10,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-1-Homework\HW7\P15\source\main.c(11,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  P15.vcxproj -> C:\Users\User\Desktop\Clone\113-1-Homework\HW7\P15\P15\x64\Debug\P15.exe

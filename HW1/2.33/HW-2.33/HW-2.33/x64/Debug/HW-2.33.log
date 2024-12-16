@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\User\Desktop\Clone\113-1-Homework\HW1\2.33\source\main.c(32,88): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\User\Desktop\Clone\113-1-Homework\HW1\2.33\source\main.c(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-1-Homework\HW1\2.33\source\main.c(18,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-1-Homework\HW1\2.33\source\main.c(21,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-1-Homework\HW1\2.33\source\main.c(24,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\Clone\113-1-Homework\HW1\2.33\source\main.c(27,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW-2.33.vcxproj -> C:\Users\User\Desktop\Clone\113-1-Homework\HW1\2.33\HW-2.33\x64\Debug\HW-2.33.exe
